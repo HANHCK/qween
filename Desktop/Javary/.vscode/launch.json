@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "button",
+            "request": "launch",
+            "mainClass": "button",
+            "projectName": "Javary_a9e84319"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": "Main",
+            "preLaunchTask": "Compile Java"
+        }
+    ]
+}
